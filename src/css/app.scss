@@ -1,0 +1,17 @@
+// app global css in SCSS form
+@import "animate.scss";
+@import "keyframes.scss";
+.btn {
+  border-radius: 50px;
+  background: linear-gradient(
+    90deg,
+    rgba(70, 212, 113, 1) 11%,
+    rgba(100, 219, 180, 1) 53%
+  );
+  color: #fff;
+  font-weight: 700;
+  border: none;
+  width: 10em;
+  height: 2.6em;
+}
+
